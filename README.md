@@ -279,3 +279,4 @@ contract GamingItemTrading {
         return address(this).balance;
     }
 }
+<img width="1920" height="1080" alt="Screenshot 2025-09-27 135838" src="https://github.com/user-attachments/assets/e151171c-b62d-43ea-80ce-c99354978cf1" />
